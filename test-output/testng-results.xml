@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-23T04:20:11Z" name="Default suite" finished-at="2020-05-23T04:20:31Z" duration-ms="20372">
+    <groups>
+    </groups>
+    <test started-at="2020-05-23T04:20:11Z" name="Default test" finished-at="2020-05-23T04:20:31Z" duration-ms="20372">
+      <class name="flipkartTestCases.testCases">
+        <test-method signature="verifyPriceRange()[pri:0, instance:flipkartTestCases.testCases@8297b3a]" started-at="2020-05-23T04:20:11Z" name="verifyPriceRange" finished-at="2020-05-23T04:20:31Z" duration-ms="20324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPriceRange -->
+      </class> <!-- flipkartTestCases.testCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
